@@ -1,0 +1,12 @@
+/Users/alessandro/Documents/MAD/MAD9021/Guessing_Game/Guessing_Game/obj/Debug/netcoreapp3.1/Guessing_Game.csprojAssemblyReference.cache
+/Users/alessandro/Documents/MAD/MAD9021/Guessing_Game/Guessing_Game/obj/Debug/netcoreapp3.1/Guessing_Game.AssemblyInfoInputs.cache
+/Users/alessandro/Documents/MAD/MAD9021/Guessing_Game/Guessing_Game/obj/Debug/netcoreapp3.1/Guessing_Game.AssemblyInfo.cs
+/Users/alessandro/Documents/MAD/MAD9021/Guessing_Game/Guessing_Game/obj/Debug/netcoreapp3.1/Guessing_Game.csproj.CoreCompileInputs.cache
+/Users/alessandro/Documents/MAD/MAD9021/Guessing_Game/Guessing_Game/bin/Debug/netcoreapp3.1/Guessing_Game.deps.json
+/Users/alessandro/Documents/MAD/MAD9021/Guessing_Game/Guessing_Game/bin/Debug/netcoreapp3.1/Guessing_Game.runtimeconfig.json
+/Users/alessandro/Documents/MAD/MAD9021/Guessing_Game/Guessing_Game/bin/Debug/netcoreapp3.1/Guessing_Game.runtimeconfig.dev.json
+/Users/alessandro/Documents/MAD/MAD9021/Guessing_Game/Guessing_Game/bin/Debug/netcoreapp3.1/Guessing_Game.dll
+/Users/alessandro/Documents/MAD/MAD9021/Guessing_Game/Guessing_Game/bin/Debug/netcoreapp3.1/Guessing_Game.pdb
+/Users/alessandro/Documents/MAD/MAD9021/Guessing_Game/Guessing_Game/obj/Debug/netcoreapp3.1/Guessing_Game.dll
+/Users/alessandro/Documents/MAD/MAD9021/Guessing_Game/Guessing_Game/obj/Debug/netcoreapp3.1/Guessing_Game.pdb
+/Users/alessandro/Documents/MAD/MAD9021/Guessing_Game/Guessing_Game/obj/Debug/netcoreapp3.1/Guessing_Game.genruntimeconfig.cache
